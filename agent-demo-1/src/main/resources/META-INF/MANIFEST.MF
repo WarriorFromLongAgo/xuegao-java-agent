@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: agent-demo-1
+Implementation-Version: 1.0
+Premain-Class: com.xuegao.MyAgent
+
